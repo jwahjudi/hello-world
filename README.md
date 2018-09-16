@@ -4,8 +4,8 @@
 `TODO://` Change color of the text when the button is pressed
 
 ### App Walk-though
-`TODO://` https://imgur.com/a/TXa6xED
-<img src="https://imgur.com/a/TXa6xED" width=200><br>
+`TODO://`
+<img src="https://i.imgur.com/wt3IXXw.gifv" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
